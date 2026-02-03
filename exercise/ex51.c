@@ -7,4 +7,4 @@
 #include <stdlib.h>
 #include <string.h>
 
-void output
+// void output(char **arr, int size)
